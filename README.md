@@ -24,3 +24,5 @@ If you plan to explore everything this darknet marketplace provides, always prio
 
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/upload/path.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/upload/pool.webp" alt="image" style="max-width: 100%;"><a>
+
+Update: Broken anchors
